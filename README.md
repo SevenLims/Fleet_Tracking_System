@@ -1,6 +1,6 @@
 # Fleet_Tracking_System
 
-There are 3 main siginificant outputs (Insights of truck conditions, Alert email of repairing truck that sends to drivers, fleet tracking operations) in the system. Personal contirbution focused on fleet tracking.
+There are 3 main significant outputs (Insights of truck conditions, Alert email of repairing truck that sends to drivers, fleet tracking operations) in the system. Personal contirbution focused on fleet tracking.
 
 Step 1:
 login to "https://992382524623.signin.aws.amazon.com/console" using:
