@@ -1,5 +1,4 @@
 # Fleet_Tracking_System
-This is the repo for Distributed Computer Systems Course.
 
 There are 3 main siginificant outputs (Insights of truck conditions, Alert email of repairing truck that sends to drivers, fleet tracking operations) in the system. Personal contirbution focused on fleet tracking.
 
