@@ -4,7 +4,9 @@ There are 3 main significant outputs (Insights of truck conditions, Alert email 
 
 Step 1:
 login to "https://992382524623.signin.aws.amazon.com/console" using:
+
 Username: User1
+&
 Password: HanChung123
 
 Step 2: 
