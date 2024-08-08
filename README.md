@@ -12,7 +12,7 @@ Password: HanChung123
 Step 2: 
 Search S3 and find the "fleettracking" bucket to open index.html and simulator.html individually. 
 
-You're now good to use it! It basically monitors how four trucks run on the map along with its coordinates.
+You're now good to use it! It basically monitors how four trucks run on the map along with its coordinates (you can open up your developer tools to monitor trucks' operations on both html files).
 
 
 *Files in the "lambda" folder are configured in AWS Lambda function, they are used to test and run with four other functions that work with the whole system. 
